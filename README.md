@@ -1,6 +1,6 @@
 # Toti 2025: HTML e CSS
 
-Este repositório contém uma página HTML e CSS criada como parte do curso FullStack da [Toti]([https://totidiversidade.com.br/]).
+Este repositório contém uma página HTML e CSS criada como parte do curso FullStack da [Toti](https://totidiversidade.com.br/).
 
 ## 🚀 Tecnologias utilizadas
 
