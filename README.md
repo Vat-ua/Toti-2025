@@ -10,7 +10,7 @@ Este repositório contém uma página HTML e CSS criada como parte do curso Full
 ## 📂 Como visualizar
 
 Você pode acessar a página diretamente pelo GitHub Pages:  
-[🔗 Link para a página](https://vat-ua.github.io/Toti-2025/)
+🔗 [Link para a página](https://vat-ua.github.io/Toti-2025/)
 
 ---
 
