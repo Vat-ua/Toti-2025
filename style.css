@@ -73,8 +73,6 @@ p+p {
 
 header,
 footer {
-  background: #3d265e;
-  background: #d4b3f4;
   background-image: linear-gradient(180deg, #232c5b 32%, #151c40);
   padding-block: 26px 28px;
   color: #fff;
